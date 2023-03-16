@@ -1,4 +1,4 @@
-module github.com/cengsin/oracle
+module qiyigit.daishu.ink/framework/driver/oracle.git
 
 go 1.19
 

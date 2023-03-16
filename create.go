@@ -12,7 +12,7 @@ import (
 	"gorm.io/gorm/clause"
 	gormSchema "gorm.io/gorm/schema"
 
-	"github.com/cengsin/oracle/clauses"
+	"qiyigit.daishu.ink/framework/driver/oracle.git/clauses"
 )
 
 func Create(db *gorm.DB) {
