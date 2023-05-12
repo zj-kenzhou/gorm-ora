@@ -1,4 +1,4 @@
-module qiyigit.daishu.ink/framework/driver/oracle-ora.git
+module github.com/zj-kenzhou/gorm-ora
 
 go 1.19
 
